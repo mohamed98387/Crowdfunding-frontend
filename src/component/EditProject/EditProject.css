@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+.sidebar-dashboard-project-edit{
+    background-color: black;
+    width:  314px;
+    height: 5300px;
+}
+.content-settings{
+  padding-top: 40px;
+height: 5300px;
+width: 700px;
+padding-left: 80px;
+background-color: rgba(255, 255, 255, 0.596);
+
+}
+.container-dashboard-project-edit{
+  height: 4300px;
+  background-color: rgba(255, 255, 255, 0.596);
+}
+.sectionOneedit{
+    height: 290px;
+    width: 570px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px -5px;
+}
+.content-project-dashboard-editproject{
+    background-color: rgba(255, 255, 255, 0.596);
+}
+
+.sectionOneedit input{
+
+    width: 500px;
+    }
+
+    .dropdown-ftwo-edit {
+     
+        width: 500px;
+        user-select: none;
+     
+        position: relative;
+     margin-top: 10px;
+      }
+      .dropdown-ftwo-edit .dropdown-btn-ftwo-edit {
+        height: 40px;
+        padding: 10px 10px;
+        background: #fff;
+        box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+        font-weight: bold;
+        color: #333;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        justify-content: space-between;
+        border: 0.1px solid grey;
+        border-radius: 5px;
+      }
+      
+      .dropdown-ftwo-edit .dropdown-content-ftwo-edit {
+        position: absolute;
+        top: 110%;
+        left: 0;
+        padding: 5px;
+        background: #fff;
+        box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+        font-weight: 500;
+        color: #333;
+        width: 100%;
+        overflow-y: auto;
+        height: 140px;
+      
+      }
+      .dropdown-ftwo-edit .dropdown-content-ftwo-edit .dropdown-item-ftwo-edit {
+        padding: 5px;
+        cursor: pointer;
+        transition: all 0.2s;
+       
+      }
+      .dropdown-ftwo-edit .dropdown-content-ftwo-edit .dropdown-item-ftwo-edit:hover {
+        background: #f4f4f4;
+      }
+      .title_dropdown-ftwo{
+        margin-left: 280px;
+        padding-top: 5px;
+        text-align: center;
+        font-size: 20px;
+    font-family:cursive;
+      }
+    
+    
+
+
+      .dropdown-ftwo-edit {
+     
+        width: 500px;
+        user-select: none;
+     
+        position: relative;
+     margin-top: 10px;
+      }
+      .dropdown-ftwo-edit .dropdown-btn-ftwo-edit {
+        height: 40px;
+        padding: 10px 10px;
+        background: #fff;
+        box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+        font-weight: bold;
+        color: #333;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        justify-content: space-between;
+        border: 0.1px solid grey;
+        border-radius: 5px;
+      }
+      
+      .dropdown-ftwo-edit .dropdown-content-ftwo-edit-categorie {
+        position: absolute;
+        top: 110%;
+        left: 0;
+        padding: 5px;
+        background: #fff;
+        box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+        font-weight: 500;
+        color: #333;
+        width: 100%;
+        overflow-y: auto;
+        height: 90px;
+      
+      }
+      .dropdown-ftwo-edit .dropdown-content-ftwo-edit-categorie .dropdown-item-ftwo-edit {
+        padding: 5px;
+        cursor: pointer;
+        transition: all 0.2s;
+       
+      }
+      .dropdown-ftwo-edit .dropdown-content-ftwo-edit-categorie .dropdown-item-ftwo-edit:hover {
+        background: #f4f4f4;
+      }
+      .title_dropdown-ftwo{
+        margin-left: 280px;
+        padding-top: 5px;
+        text-align: center;
+        font-size: 20px;
+    font-family:cursive;
+      }
+    
+    .sectionThreeedit{
+        height: 150px;
+        width: 570px;
+        background-color: white;
+        margin-top: 20px;
+        border-radius: 15px;
+        box-shadow: 0px 0px 10px -5px;
+    }
+    
+.file{
+display: none;
+}
+.xxx{
+    width: 200px;
+    margin-left: 150px;
+    font-size: 15px;
+   text-align: center;
+    margin-top: 15px;
+    color: #ffffff;
+    padding: 18px 20px;
+    background-color: #025bee;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-sv{
+    box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+    font-size: 15px;
+    color: white;
+}
+.info-edit{
+  opacity: 0.5;
+  margin-top: 5px;
+}
+.sectionsixedit{
+  height: 450px;
+  width: 570px;
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px -5px;
+}
+.sectionsevenedit{
+  height: 350px;
+  width: 570px;
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px -5px;
+  
+}
+.xxxx{
+  width: 200px;
+  
+  font-size: 15px;
+ text-align: center;
+  margin-top: 15px;
+  color: #ffffff;
+  padding: 18px 20px;
+  background-color: #025bee;
+  border-radius: 5px;
+  cursor: pointer;
+ 
+}

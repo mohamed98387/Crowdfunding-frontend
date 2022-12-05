@@ -1,0 +1,154 @@
+
+.projectDetails{
+    background-color: #ffffff;
+    width: 1349px;
+    height: 650px;
+
+}
+.projectTitledescription {   
+     height: 110px;
+     text-align: center;
+}
+.projectTitle{
+    padding-top: 20px;
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 300;
+   letter-spacing: 1px;
+}
+.smallDescription{
+    padding-top: 0px;
+}
+.middleContainer{
+    margin-top: 30px;
+    width: 1305px;
+    height: 450px;
+    display: flex;
+  
+}
+.video{
+    margin-left: 50px;
+}
+.someDeatils{
+    margin-left: 30px;
+    width: 600px;
+    height: 390px;
+    
+}
+.progresse-line-project-details{
+    position: relative;
+    margin-top: 5px;
+    height: 10px;
+    width: 500px;
+    background-color: #d3cfcfa2;
+    border-radius: 5px;
+    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.05),
+                      0px 1px rgba(255, 255, 255, 0.644);
+}
+.progresse-line-project-details span{
+    border-radius: 5px;
+    margin-left: 0px;
+    height: 100%;
+    width: 90%;
+    background:#EA1A47;
+    position: absolute;
+}
+.amount{
+    font-size: 30px;
+    color:#EA1A47;
+}
+
+.objectif{
+    opacity: 0.5;
+ 
+}
+.nbcontributeurs{
+    opacity: 0.5;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.btn--outline-detail-project{
+    width: 500px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: #EA1A47;
+    color:  rgb(255, 255, 255);;
+    padding: 8px 20px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+
+}
+.btns{
+    border-color: black;
+    margin-top: 30px;
+    border-color: var(--color-grey-400);
+ display: flex;
+}
+.favoris{
+    cursor: pointer;
+    border:1px solid rgb(209, 208, 208);
+    margin-top: 10px;
+    margin-left: 10px;
+       padding: 5px;
+      border-radius: 5px;
+    font-size: 40px;
+}
+.favorisIcon{
+    cursor: pointer;
+    border:1px solid rgb(209, 208, 208);
+    margin-top: 10px;
+    margin-left: 10px;
+       padding: 5px;
+      border-radius: 5px;
+    font-size: 40px;
+  
+}
+.favorisIcon:focus{
+   color: #EA1A47;
+   background-color: #EA1A47;
+}
+.btnfavone{
+background-color: #EA1A47;
+color: white;
+}
+.btnfavtwo{
+    background-color:white;
+    color: black;
+}
+.navdetails{
+  width: 100%;
+    position: sticky;
+    top:70px;
+   border-bottom: 0.5px solid gray;
+   border-top: 0.5px solid gray;
+    box-shadow:  1px 1px 1px 1px rgb(0 0 0 / 12%);
+  justify-content: flex-start;
+    height: 70px;
+    display: flex;
+    background-color: white;
+ 
+}
+.descriptionDetails{
+   
+  
+  
+}
+.btndetails{
+   border-top: white;
+   border-left: white;
+   border-right: white;
+  border-bottom: white;
+  color: #282828;
+
+    }
+.btndetails:hover{
+color: #EA1A47;
+}
+.btndetails:focus{
+    border-bottom: 2px solid #282828;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+     }
+

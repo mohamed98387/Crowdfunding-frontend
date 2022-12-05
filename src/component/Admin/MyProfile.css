@@ -1,0 +1,24 @@
+.container-dashboard{
+    background-color: rgba(255, 253, 253, 0.89);
+}
+.content-dashboard{
+display: flex;
+}
+.content-dashboard img{
+  height: 70px;
+  width: 60px;
+  border-radius: 100px;
+  
+    }
+    .img_content{
+        align-items: center;
+        margin-top: 50px;
+        margin-left: 100px;
+
+    }
+    .information_content{
+        width: 100%;
+        padding-top: 40px;
+        margin-left: 20px;
+       
+    }

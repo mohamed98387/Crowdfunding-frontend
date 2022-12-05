@@ -1,0 +1,56 @@
+.nvdesc{
+    position: sticky;
+    top:150px;
+    margin-left: 10px;
+    width: 100px;
+  height: 190px;
+   margin-top: 20px;
+
+}
+.contdesc{
+    margin-left: 10px;
+    width:850px;
+    height: 3500px;
+   
+}
+.rewarddesc{
+    margin-left: 10px;
+    width:350px;
+    top:150px;
+    position: sticky;
+    height: 480px;
+    overflow-y: auto;
+  
+}
+.btnnvdesc:hover{
+    color: #EA1A47;
+}
+.ppp{ background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%);}
+.rewardcard{
+    position: relative;
+    background-color: white;
+    
+}
+.rewardcard :hover{
+   background-color: #fce9f6;
+   cursor: pointer;
+  
+}
+.rewardcardtwo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #EA1A47;
+    color: white;
+   opacity: 0;
+  
+
+}
+.rewardcardtwo:hover{
+ 
+   opacity: 0.2;
+
+}
+

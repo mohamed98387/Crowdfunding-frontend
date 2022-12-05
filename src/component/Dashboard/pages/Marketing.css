@@ -1,0 +1,31 @@
+.inst{
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+    text-align: center;
+padding: 0px;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 220px;
+    line-height: 250px;
+    vertical-align: middle;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+.fcb{
+    width: 50px;
+    height: 40px; 
+    border-radius: 10px;
+    font-size: 220px;
+  color: #285AEB;
+}
+.git{
+    width: 50px;
+    height: 40px;
+
+}
+.twitter{
+    width: 50px;
+    height: 40px;
+    color: #547bee;
+}

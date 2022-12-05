@@ -1,0 +1,15 @@
+.activeLink:hover{
+    background-color: #EA1A47;
+    }
+    .activeLink{
+       display: flex;
+       justify-content: start;
+       justify-items: center;
+       color: white;
+       font-size: 18px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    
+     text-decoration: none;
+        }

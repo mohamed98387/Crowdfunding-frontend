@@ -1,0 +1,39 @@
+
+.btn{
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+
+}
+.btn--primary{
+    background-color: var(--primary);
+    color: #fff;
+    border: 1px solid var(--primary);
+}
+.btn--outline{
+    width: 120px;
+   margin-left: 20px;
+    border-radius: 20px;
+    background-color:#EA1A47 ;
+    color:  rgb(255, 255, 255);
+    padding: 8px 8px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+}
+
+.bnt--meduim{
+    padding: 8px 20px;
+    font-size: 20px;
+}
+.btn--large{
+    padding: 12px 26px;
+    font-size: 20px;
+}
+.btn--meduim:hover,
+.btn--large:hover{
+background: #c01238;
+color: #fff;
+transition: all 0.3s ease-out;
+}

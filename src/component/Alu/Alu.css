@@ -1,0 +1,126 @@
+.containerAlu{
+    background-color: #ffff;
+   
+    width: 1312px;
+    height: 650px;
+    display: flex;
+}
+.aluu{
+    padding-top: 40px;
+    margin-left: 40px;
+}
+.aluu img{
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 30px;
+    height: 400px;
+    width: 600px;
+   
+  transition: all 0.5s linear;
+ 
+}
+.aluu h2:hover{
+      cursor: pointer;
+  color: #EA1A47;
+
+}
+.imgH{
+    margin-top: 0px;
+    height: 380px;
+    width: 600px;
+
+}
+.imgH:hover h2{
+    color: #EA1A47 ;
+
+}
+.imgH h2{
+    font-family: cursive;
+
+}
+.imgH:hover img{
+    transform: scale(1.05) ;
+
+  
+}
+.progresse-line{
+    position: relative;
+    margin-top: 5px;
+    height: 10px;
+    width: 100%;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.05),
+                      0px 1px rgba(255,255,255,0.8);
+}
+.progresse-linetwo{
+    position: relative;
+    margin-top: 5px;
+    height: 10px;
+    width: 100%;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.05),
+                      0px 1px rgba(255,255,255,0.8);
+}
+.progresse-linethree{
+    position: relative;
+    margin-top: 5px;
+    height: 10px;
+    width: 100%;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.05),
+                      0px 1px rgba(255,255,255,0.8);
+}
+.progresse-line span{
+    border-radius: 5px;
+    margin-left: 0px;
+    height: 100%;
+    width: 80%;
+    background:#EA1A47;
+    position: absolute;
+}
+.progresse-linetwo span {
+    border-radius: 5px;
+    margin-left: 0px;
+    height: 100%;
+    width: 50%;
+    background:#EA1A47;
+    position: absolute;
+}
+.progresse-linethree span{
+    border-radius: 5px;
+    margin-left: 0px;
+    height: 100%;
+    width: 100%;
+    background:#EA1A47;
+    position: absolute;
+}
+.aluutwo{
+    padding-top: 40px;
+    margin-left: 40px;
+}
+.sectionOne{
+    display: flex;
+}
+.sectionOne img{
+    margin-top: 5px;
+    border-radius: 5px;
+   height: 140px;
+   width: 260px;
+}
+.containerRightsection{
+    margin-top: 25px;
+}
+.sectionOne:hover img{
+    cursor: pointer;
+    transform: scale(1.05) ;
+}
+.sectionOne:hover h1{
+    cursor: pointer;
+    color: #EA1A47;
+}
+.sectionOne:hover img{
+    transition: all 0.5s linear;
+}
